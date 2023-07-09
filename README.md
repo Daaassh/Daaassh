@@ -1,3 +1,3 @@
 - 👋 Olá eu sou @BearDevelopers
 - 🌱 Sou um simples desenvolvedor de bots para discord
-- 📫 Caso queira encomendar algo me chama no discord: PolarRico#0001
+- 📫 Caso queira encomendar algo me chama no discord: 4k_._
