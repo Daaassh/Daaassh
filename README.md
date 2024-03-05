@@ -16,10 +16,11 @@ Aqui estão alguns dos meus projetos mais recentes:
 - CSS
 - Python
 - Bukkit
-- Discord.py
+- TypeScript
+- Discord.js
 
 ## 📖 Estudando
-- Java Script
+- Next.js
 
 ## 📝 Pretendo estudar
-- React.js
+- 
